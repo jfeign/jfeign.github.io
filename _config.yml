@@ -103,3 +103,41 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+#  搜索
+search:
+  path: search.xml
+  field: post
+
+#  中文链接转拼音（建议安装）
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
+
+# 文章字数统计插件（建议安装）
+postInfo:
+  date: true
+  update: false
+  wordCount: true # 设置文章字数统计为 true.
+  totalCount: true # 设置站点文章总字数统计为 true.
+  min2read: true # 阅读时长.
+  readCount: true # 阅读次数.
+
+# 添加emoji表情支持（可选的）
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
+
+#    添加 RSS 订阅支持（可选的）
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
