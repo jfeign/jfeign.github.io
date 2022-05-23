@@ -26,6 +26,7 @@ hexo d -g #生成并上传
 ```
 
 
+
 ```bash
 nvm version                         
 v8.16.1
