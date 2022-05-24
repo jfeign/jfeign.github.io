@@ -103,8 +103,8 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/alphaJf/alphaJf.github.io.git
-  branch: master
+  repo: https://github.com/jfeign/jfeign.github.io.git
+  branch: blog
 
 #  搜索
 search:
