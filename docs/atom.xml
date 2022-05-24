@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title></title>
   
-  
+  <subtitle>感受意识,捕捉意识</subtitle>
   <link href="https://jfeign.github.io/atom.xml" rel="self"/>
   
   <link href="https://jfeign.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://jfeign.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>jfeign</name>
     
   </author>
   

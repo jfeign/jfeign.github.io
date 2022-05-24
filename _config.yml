@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:
-subtitle: ''
-description: ''
+title: ''
+subtitle: '感受意识,捕捉意识'
+description: '记录自己技术的成长'
 keywords:
-author: John Doe
+author: jfeign
 language: zh-CN
 timezone: ''
 
@@ -22,7 +22,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
