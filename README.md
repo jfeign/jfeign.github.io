@@ -39,3 +39,6 @@ nvm use 16.15.0
 定位到我们的hexo根目录，执行命令：
 
 hexo new 'my-first-blog'
+
+2022-05-24
+最后删除了 environments 才恢复
