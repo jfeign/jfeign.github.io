@@ -570,8 +570,8 @@ tidio:
 
 # 腾讯兔小巢，见https://txc.qq.com/
 tuxiaochao:
-  enable: false
-  productId:
+  enable: true
+  productId: 409147
 #背景canvas-nest
 canvas_nest:
   enable: true

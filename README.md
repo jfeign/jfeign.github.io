@@ -43,3 +43,6 @@ hexo new 'my-first-blog'
 2022-05-24
 最后删除了 environments 才恢复
 主题地址: https://github.com/blinkfox
+
+todo:  捣鼓minivaline,还有音乐
+ 
