@@ -6,7 +6,7 @@
   <link href="https://jfeign.github.io/atom.xml" rel="self"/>
   
   <link href="https://jfeign.github.io/"/>
-  <updated>2022-05-18T03:27:51.698Z</updated>
+  <updated>2022-05-31T05:05:49.458Z</updated>
   <id>https://jfeign.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面试题:组小和</title>
+    <link href="https://jfeign.github.io/2022/05/31/mian-shi-ti-zu-xiao-he/"/>
+    <id>https://jfeign.github.io/2022/05/31/mian-shi-ti-zu-xiao-he/</id>
+    <published>2022-05-31T04:54:56.428Z</published>
+    <updated>2022-05-31T05:05:49.458Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-问题描述&quot;&gt;&lt;a href=&quot;#1-问题描述&quot; class=&quot;headerlink&quot; title=&quot;1.问题描述&quot;&gt;&lt;/a&gt;1.问题描述&lt;/h1&gt;&lt;p&gt;数组小和的定义如下：&lt;/p&gt;
+&lt;p&gt;例如，数组s=[</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test_site</title>
